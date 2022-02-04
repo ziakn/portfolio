@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Zia Muhammad",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "ziakn03@gmail.com",
+    "phone": "(974) 5068-4583",
+    "website": "https://ziamuhammad.com",
+    "summary": "Professional Software Engineer with a demonstrated history of working experience in the Software industry. Highly Skilled in Software Design, Architecture Level Design, SRS Documentation, Saclling aaps, Microservices,   Laravel, Vuejs, Nuxtjs, Vuetify, Vuex, Vuerouter MYSQL, SQL, SQL Server, Google API, Currency Conversion API, Git, GitHub, Bit-bucket, Restfull API, JSON, Project Analysis, Software Documentation, Vs-code, Visual-studio, java-script, Typescript, Es5, Es6, PHP 7, SPA, QPay, Twyla and  Sadad Payment Gateway, SMS Gateways.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Zia Muhammad",
+        "url": "https://www.linkedin.com/in/zia-software/"
+      },
+      {
+        "network": "Github",
+        "username": "ziakn",
+        "url": "https://github.com/ziakn"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dar Al Sharq Group",
+      "position": "Software Engineer",
+      "website": "https://www.daralsharq.net/",
+      "startDate": "2020-12-01",
+      "summary": "Design develop and maintain the Software applications. Research and implement technology stacks. Involved in the analysis, design, functionality, testing, security and support. Wrote Restful web services and web API for direct application-to-application interaction. Developed and managed databases for each project."
+    },
+    {
+      "company": "SimplistQ Solutions",
+      "position": "Softaware Engineer",
+      "website": "http://simplistq.com",
+      "startDate": "2019-01-01",
+      "summary": "Research and implement technology stacks. Keeping up to date with the terminology, concepts, and best practices for coding Web applications. Manage databases and API calls. To perform unit test to ensure usability and general reliability. Applications performance and bug fixing. Continuous evaluation, discovery and implementation of new technologies to maximize the efficiency of development. "
+    },
+    {
+      "company": "NS developer",
+      "position": "Store Manager",
+      "website": "http://company.com",
+      "startDate": "2018-01-01",
+      "summary": "Develop and designed Project Automation system for University of Institute of management Sciences. Participate in the analysis, design, testing, security and support. Involve in Software Development Life Cycle (SDLC) and agile methodology in software development."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Im|Sciences",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-09-01",
+      "gpa": "3.55",
+      "courses": [
+        "Softwares Products"
+      ]
+    },
+    {
+      "institution": "Govt College Of Technology",
+      "area": "Engineering",
+      "studyType": "Diploma",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "3.1",
+      "courses": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "institution": "Cisco",
+      "area": "Networking",
+      "studyType": "Certificate",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "gpa": "3.2",
+      "courses": [
+        "CCNA"
+      ]
+    },
+    {
+      "institution": "Microsoft",
+      "area": "Microsoft",
+      "studyType": "Certificate",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "gpa": "3.4",
+      "courses": [
+        "Microsoft Specialist"
+      ]
+    }
+    
+  ],
+  "skills": [
+    {
+      "name": "FrameWork",
+      "level": 6,
+      "keywords": [
+        "Laravel",
+        "Vue js",
+        "Nuxt js"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": 6,
+      "keywords": [
+        "Javascript",
+        "PHP/MYSQL",
+        "Typescript",
+        "SQL",
+        "HTML5/CSS3"
+      ]
+    },
+    {
+      "name": "Sacalable Software Design",
+      "level": 5,
+      "keywords": [
+        "SRS",
+        "Architectura",
+        "System Analysis",
+        "Technical plans"
+      ]
+    },
+    
+    {
+      "name": "Other",
+      "level": 4,
+      "keywords": [
+        "Graphic Design",
+        "Marketing",
+        "Web Design",
+        "Logo Design"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Websites are the front office and the global face for any and every organization. Develop stunning website that are tailor made for you. Get Ensuring Quality, Excellence, and Virtue in the delivery of web development services"
+      ]
+    },
+    {
+      "name": "Web Hosting",
+      "keywords": [
+        "Shared Hosting, Virtual Private Server, Cloud Based Hosting, and Dedicated Hosting"
+      ]
+    },
+    {
+      "name": "Design And Branding",
+      "keywords": [
+        "An inventive logo,brochure,business card acquaints you with your customers and business accomplices with no clarification. Brochure design, Logo Design, Banners Design, Business Card Design, Layout design."
+      ]
+    },
+    {
+      "name": "IT Consulting Services",
+      "keywords": [
+        "We provide online and onsite IT consulting services to organizations and individuals in Qatar to assist them through the technology crossroads. We can help you to navigate through the difficult IT choices you may have to make in your organization."
+      ]
+    }
+  ]
+}
