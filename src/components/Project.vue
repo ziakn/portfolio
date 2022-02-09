@@ -24,7 +24,7 @@
             Project Details
           </core-subheading>
           <core-text>
-            {{value.description}}
+            {{ value.description }}
           </core-text>
 
           <!-- <core-subheading>

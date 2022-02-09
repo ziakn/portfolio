@@ -46,7 +46,7 @@
                 class="mb-3"
                 v-text="'Phone'"
               />
-              <div v-text="'Discord'" />
+              <!-- <div v-text="'Discord'" /> -->
             </v-col>
             <v-col
               cols="6"
@@ -64,7 +64,7 @@
                 class="mb-3"
                 v-text="schema.basics.phone"
               />
-              <div>@j.smith#3992</div>
+              <!-- <div>@j.smith#3992</div> -->
             </v-col>
           </v-row>
         </v-col>
