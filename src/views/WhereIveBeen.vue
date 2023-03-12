@@ -18,7 +18,7 @@
         >
           <span
             slot="opposite"
-            v-text="item.startDate.slice(0, 4)"
+            v-text="item.startDate"
           />
 
           <v-card class="pa-3">

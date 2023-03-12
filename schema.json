@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "",
     "email": "ziakn03@gmail.com",
-    "phone": "(974) 5068-4583",
+    "phone": "+97450684583",
     "website": "https://ziamuhammad.com",
     "summary": "Professional Software Engineer with a demonstrated history of working experience in the Software industry. Highly Skilled in Software Design, Architecture Level Design, SRS Documentation, Saclling aaps, Microservices,   Laravel, Vuejs, Nuxtjs, Vuetify, Vuex, Vuerouter MYSQL, SQL, SQL Server, Google API, Currency Conversion API, Git, GitHub, Bit-bucket, Restfull API, JSON, Project Analysis, Software Documentation, Vs-code, Visual-studio, java-script, Typescript, Es5, Es6, PHP 7, SPA, QPay, Twyla and  Sadad Payment Gateway, SMS Gateways.",
     "location": {
@@ -21,6 +21,11 @@
         "url": "https://twitter.com/ziamuhmmad2S"
       },
       {
+        "network": "Whatsapp",
+        "username": "zia muhammad",
+        "url": "https://wa.me/+97450684583"
+      },
+      {
         "network": "LinkedIn",
         "username": "Zia Muhammad",
         "url": "https://www.linkedin.com/in/zia-software/"
@@ -34,25 +39,18 @@
   },
   "work": [
     {
-      "company": "Dar Al Sharq Group",
-      "position": "Software Engineer",
-      "website": "https://www.daralsharq.net/",
-      "startDate": "2020-12-01",
-      "summary": "Design develop and maintain the Software applications. Research and implement technology stacks. Involved in the analysis, design, functionality, testing, security and support. Wrote Restful web services and web API for direct application-to-application interaction. Developed and managed databases for each project."
+      "company": "Dar Al-Sharq Group, Doha, Qatar",
+      "position": "Software Engineer ",
+      "website": "https://www.daralsharq.net/en",
+      "startDate": "NOVEMBER 2020 – PRESENT",
+      "summary": "Design, develop and maintain the Software applications. Research and implement technology stacks.  Involved in the analysis, design, functionality, testing, security, and support. Wrote Restful web services and web API for direct application-to-application interaction. Developed and managed databases for each project."
     },
     {
-      "company": "SimplistQ Solutions",
-      "position": "Softaware Engineer",
-      "website": "http://simplistq.com",
-      "startDate": "2019-01-01",
-      "summary": "Research and implement technology stacks. Keeping up to date with the terminology, concepts, and best practices for coding Web applications. Manage databases and API calls. To perform unit test to ensure usability and general reliability. Applications performance and bug fixing. Continuous evaluation, discovery and implementation of new technologies to maximize the efficiency of development. "
-    },
-    {
-      "company": "NS developer",
-      "position": "Store Manager",
-      "website": "http://company.com",
-      "startDate": "2018-01-01",
-      "summary": "Develop and designed Project Automation system for University of Institute of management Sciences. Participate in the analysis, design, testing, security and support. Involve in Software Development Life Cycle (SDLC) and agile methodology in software development."
+      "company": "SimplistQ Solutions, Doha, Qatar",
+      "position": "Software Engineer ",
+      "website": "#",
+      "startDate": "SEPTEMBER 2018 – NOVEMBER 2020",
+      "summary": "Research and implement technology stacks. Keeping up to date with the terminology, concepts, and best practices for coding Web applications. Manage databases and API calls. To perform unit test to ensure usability and general reliability. Applications performance and bug fixing. Continuous evaluation, discovery, and implementation of new technologies to maximize the efficiency of development. Deliver error-free code within agreed timescales. Application deployment. Managed team of developers and clients."
     }
   ],
   "education": [
