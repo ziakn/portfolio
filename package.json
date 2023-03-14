@@ -45,5 +45,9 @@
     "vuex-router-sync": "^5.0.0",
     "webpack": "^4.41.5",
     "workbox-webpack-plugin": "^6.4.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
+  
 }
