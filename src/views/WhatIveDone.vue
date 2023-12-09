@@ -35,6 +35,24 @@
     data: () => ({
       projects: [
         {
+          name: 'Al sharq',
+          category: 'Arabic News Paper',
+          src: 'classic-cafe.png',
+          description: 'Al Sharq is an Arabic and pro-government daily newspaper published in Doha, Qatar. The paper is one of the three leading Arabic newspapers in the Qatar.',
+        },
+        {
+          name: 'The Peninsula Qatar',
+          category: 'English News Paper',
+          src: 'classic-cafe.png',
+          description: 'The Peninsula, one of the leading English dailies in Qatar and Middle East. With over 65 million pageviews thepeninsula.qa (thepeninsulaqatar.com), we can proudly say, is the top news website in both English and Arabic in Qatar and Middle East. Last year we had over 8.5 million users visit our website and good majority of the visitors are from Qatar, making us a very hyper local website..',
+        },
+        {
+          name: 'Lusail News',
+          category: 'Arabic News Paper',
+          src: 'classic-cafe.png',
+          description: 'Successfully spearheaded the development of APIs and database infrastructure for the innovative Lusail News mobile application. Contributed to enhancing user engagement and facilitating seamless news delivery.',
+        },
+        {
           name: 'Alwaraq',
           category: 'Printing Press',
           src: 'classic-cafe.png',
@@ -89,12 +107,12 @@
         //   src: 'biere.jpg',
         //   description: 'Eaqaqa is Qatar University Project for teachers and professors.Professors are to upload the there research , thesis, books, articles. also give access to uplaod a diffrent seminars and activites picture previsouly held in Unversity.',
         // },
-        // {
-        //   name: 'Almass Water distrbution system',
-        //   category: 'Marketing and Graphic Design',
-        //   src: 'biere.jpg',
-        //   description: 'Eaqaqa is Qatar University Project for teachers and professors.Professors are to upload the there research , thesis, books, articles. also give access to uplaod a diffrent seminars and activites picture previsouly held in Unversity.',
-        // },
+        {
+          name: 'Almass Water distrbution system',
+          category: 'Marketing and Graphic Design',
+          src: 'biere.jpg',
+          description: 'Al Mass water has the following modules,1. Online Web Application for Al mass water distribution system 2. SMS Gateway and Email integration for Alerts. 3. Coupon Management System. 4. Assign coupon Management System. 5. Role based User Management 6. Zone Management System. 7. Driver Management System. 8. Sales Man Management System. 9. Customer Management System. 10. Reporting Dashboard .',
+        },
         {
           name: 'Ajt Qatar Properties',
           category: 'Real Estate',

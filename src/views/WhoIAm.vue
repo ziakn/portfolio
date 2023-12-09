@@ -54,7 +54,7 @@
             >
               <div
                 class="mb-3"
-                v-text="'United States'"
+                v-text="'Doha Qatar'"
               />
               <div
                 class="mb-3 text-truncate"

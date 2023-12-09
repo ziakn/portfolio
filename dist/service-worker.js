@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4eae89cbc239179bbbd5f194e44ac8a0.js"
+  "/precache-manifest.5e365a8a45762e48b7c195a5d694d468.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "@vuetify-theme/portfolio-dark"});
