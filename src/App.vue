@@ -7,7 +7,15 @@
     </v-content>
   </v-app>
 </template>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKC08M31Q4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-PKC08M31Q4');
+</script>
 <script>
   export default {
     components: {
